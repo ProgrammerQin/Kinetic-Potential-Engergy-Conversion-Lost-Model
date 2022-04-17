@@ -36,23 +36,38 @@ plt.ylabel('Height [m]')
 Use floats for all your variables except the number of timesteps. The output should be printed only
 from the main program. Your program output should be in the following format:
 Test Case 1: (h=20, u=0)
-S. Srinivasan
+
 
 B: 20.00 2.00 2.00 50
+
 T: 0.00 2.00 4.00 100
+
 B: 20.00 2.00 6.00 150
+
 T: 0.00 2.00 8.00 200
+
 B: 20.00 2.00 10.00 250
+
 T: 0.00 2.00 12.00 300
+
 B: 20.00 2.00 14.00 350
+
 T: 0.00 2.00 16.00 400
+
 Test Case 2: (h=20, u=10)
+
 B: 22.40 1.24 1.24 31
+
 T: 0.00 2.24 3.48 87
+
 B: 22.80 2.28 5.76 144
+
 T: 0.00 2.28 8.04 201
+
 B: 22.80 2.28 10.32 258
+
 T: 0.00 2.28 12.60 315
+
 B: 23.20 2.32 14.92 373
 
 
@@ -86,31 +101,55 @@ understand how the ball bounces.
 program output should be in the following format
 Test Case 1: (h=20, u=0, Ep = 0.1)
 B: 18.97 2.00 2.00 50
+
 T: 0.00 1.92 3.92 98
+
 B: 18.21 1.92 5.84 146
+
 T: 0.00 1.84 7.68 192
+
 B: 17.46 1.84 9.52 238
+
 T: 0.00 1.76 11.28 282
+
 B: 16.70 1.76 13.04 326
+
 T: 0.00 1.68 14.72 368
 
 Test Case 2: (h=20, u=10, Ep=0.1)
+
 B: 21.25 1.24 1.24 31
+
 T: 0.00 2.16 3.40 85
+
 B: 20.49 2.16 5.56 139
+
 T: 0.00 2.08 7.64 191
+
 B: 19.73 2.08 9.72 243
+
 T: 0.00 2.00 11.72 293
+
 B: 18.97 2.00 13.72 343
+
 T: 0.00 1.92 15.64 391
 
 Test case 3: (h=20,u=20,Ep=0.3)
+
 B: 23.76 0.84 0.84 21
+
 T: 0.00 2.40 3.24 81
+
 B: 20.08 2.40 5.64 141
+
 T: 0.00 2.04 7.68 192
+
 B: 17.07 2.04 9.72 243
+
 T: 0.00 1.72 11.44 286
+
 B: 14.39 1.72 13.16 329
+
 T: 0.00 1.44 14.60 365
+
 Only a screenshot of the program output (see sample of test case results including the figure) is allowed.
