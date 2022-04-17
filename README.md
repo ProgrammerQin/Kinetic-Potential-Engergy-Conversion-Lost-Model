@@ -99,7 +99,9 @@ The output should be printed only form the main program. Try different combinati
 understand how the ball bounces. 
 
 program output should be in the following format
+
 Test Case 1: (h=20, u=0, Ep = 0.1)
+
 B: 18.97 2.00 2.00 50
 
 T: 0.00 1.92 3.92 98
@@ -115,6 +117,8 @@ T: 0.00 1.76 11.28 282
 B: 16.70 1.76 13.04 326
 
 T: 0.00 1.68 14.72 368
+
+
 
 Test Case 2: (h=20, u=10, Ep=0.1)
 
@@ -134,6 +138,9 @@ B: 18.97 2.00 13.72 343
 
 T: 0.00 1.92 15.64 391
 
+
+
+
 Test case 3: (h=20,u=20,Ep=0.3)
 
 B: 23.76 0.84 0.84 21
@@ -151,5 +158,7 @@ T: 0.00 1.72 11.44 286
 B: 14.39 1.72 13.16 329
 
 T: 0.00 1.44 14.60 365
+
+
 
 Only a screenshot of the program output (see sample of test case results including the figure) is allowed.
